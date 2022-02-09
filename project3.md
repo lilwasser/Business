@@ -2,11 +2,7 @@
 
 ## Summary
 
-Say that you'd like to do some data work for an organization, but they aren't hiring. They might not even know that 
-they could benefit from the data science services of a skilled practitioner like you. How can you get their attention?  
-
-For this project, you are going to deliver a well-scoped project proposal and preliminary analysis to your target organization 
-(“client”) to try to get your foot in the door. Your job is to:
+Deliver a well-scoped project proposal and preliminary analysis to your target organization (“client”) to try to get your foot in the door. Your job is to:
 * Define a realistic business problem faced by your client
 * Develop a fully-scoped proposal for how data science methods can be used to drive impact towards the defined problem, 
 making use of the [project identification](../applications-opportunities) and [scoping](../project-scoping) best practices 
@@ -15,19 +11,26 @@ covered in lecture. At the very least, components should include:
     * Solution paths
     * Measures of success, both technical and non-technical
     * Risks and assumptions
-* Identify one or more publicly-accessible datasets relevant to your proposal and perform a preliminary analysis of the 
-data, e.g. descriptive / exploratory analysis and visualizations. This analysis should explain the nature of your data and provide evidence that your proposed data science project is a feasible solution to the problem.
+* Identify one or more publicly-accessible datasets relevant to your proposal and perform a preliminary analysis of the data, e.g. descriptive / exploratory analysis and visualizations. This analysis should explain the nature of your data and provide evidence that your proposed data science project is a feasible solution to the problem.
 * Clearly outline the future data science steps that were not covered in your preliminary analysis
 * Communicate your proposal and preliminary findings in a 5 minute mock "pitch" presentation at the end of week 2 and in
  a short written description (more details below)
 
+scoping: who was it designed for? identify places for improvement/new opps. come up with problem. impact focused ideas.
+-> identify impact (obstacle/opportunity), potential impact hypothesis, major risks
+
+
+
+
 ### Your backstory
-This is a fairly free-form project, and creativity is welcome. Be sure that there is enough time to do good work with 
-the data, but it is fine to tinker with the premise of the project. 
- 
+
 The client organization can be real or imaginary, a private company or a social sector group, anything you desire. 
 The [brainstorming_examples.md](brainstorming_examples.md) document contains examples of clients and potential business problems, as well as other
 business questions to consider when brainstorming.
+
+Above: The clearly defined client backstory is exceptionally creative and involved, and is addressed in a highly proficient manner. The project is designed around a highly realistic and meaningful business problem that seamlessly incorporates data science methods as part of the solution. Project identification and scoping best practices are executed comprehensively.
+
+
 
 ## Components
 Metis projects are broken down into 5 component parts -- **design, data, algorithms, tools, and communication** -- that 
@@ -45,10 +48,16 @@ The proposed project should be fully scoped out and then pitched during the slid
 * The data must be in tabular form, so that you can use spreadsheet tools and Tableau to access the data.
 * Datasets should be reasonably large, e.g. over **1,000 rows** and **10 columns**. Consult with an instructor if you are considering deviating from this rule of thumb, which is often fine. However, data should not exceed **100,000** rows, because this much data will make it difficult for Excel to function properly. If your data source has more rows than that, you should take a random sample. 
 * You are welcome and encouraged to incorporate any additional, relevant data sources.
+* Above: The data is large in scale and complex in nature. Multiple datasets are leveraged via merging disparate sources, enabling a broader and deeper analysis of the client problem.
+
+
  
 ### Algorithms:
 * Perform a thorough exploratory analysis in Excel and Tableau; 
 clean, explore, aggregate, and visualize the data as appropriate to address the client's problem. 
+Above: Exploratory data analysis and visualization techniques are applied to an exceptional level of depth or breadth. Non-obvious patterns and insights obtainable from the data are extracted and interpreted using methods beyond what was covered in the course. The analysis clearly demonstrates the feasibility and fit of the proposed data science project to the client problem.
+
+
 
 ### Tools:
 * **Exploratory data analysis in Excel or Google Sheets** is required.
