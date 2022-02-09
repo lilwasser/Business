@@ -3,14 +3,15 @@
 ## Summary
 
 Deliver a well-scoped project proposal and preliminary analysis to your target organization (“client”) to try to get your foot in the door. Your job is to:
-* Define a realistic business problem faced by your client
-* Develop a fully-scoped proposal for how data science methods can be used to drive impact towards the defined problem, 
-making use of the [project identification](../applications-opportunities) and [scoping](../project-scoping) best practices 
+* Define a realistic business problem faced by your client: 
+
+* Develop a fully-scoped proposal for how data science methods can be used to drive impact towards the defined problem, making use of the [project identification](../applications-opportunities) and [scoping](../project-scoping) best practices 
 covered in lecture. At the very least, components should include:
     * Impact hypothesis
     * Solution paths
     * Measures of success, both technical and non-technical
-    * Risks and assumptions
+    * Risks and assumptions 
+    
 * Identify one or more publicly-accessible datasets relevant to your proposal and perform a preliminary analysis of the data, e.g. descriptive / exploratory analysis and visualizations. This analysis should explain the nature of your data and provide evidence that your proposed data science project is a feasible solution to the problem.
 * Clearly outline the future data science steps that were not covered in your preliminary analysis
 * Communicate your proposal and preliminary findings in a 5 minute mock "pitch" presentation at the end of week 2 and in
@@ -44,6 +45,10 @@ It should be centered around a meaningful business problem that can be addressed
 The proposed project should be fully scoped out and then pitched during the slide presentation.
 *  All **deliverable deadlines should be met**, reflecting **professionalism** and **effective scoping and workflow**.
 
+* impact
+* beneficiaries:
+* data science solution
+
 ### Data:
 * The data must be in tabular form, so that you can use spreadsheet tools and Tableau to access the data.
 * Datasets should be reasonably large, e.g. over **1,000 rows** and **10 columns**. Consult with an instructor if you are considering deviating from this rule of thumb, which is often fine. However, data should not exceed **100,000** rows, because this much data will make it difficult for Excel to function properly. If your data source has more rows than that, you should take a random sample. 
@@ -58,6 +63,8 @@ clean, explore, aggregate, and visualize the data as appropriate to address the 
 Above: Exploratory data analysis and visualization techniques are applied to an exceptional level of depth or breadth. Non-obvious patterns and insights obtainable from the data are extracted and interpreted using methods beyond what was covered in the course. The analysis clearly demonstrates the feasibility and fit of the proposed data science project to the client problem.
 
 
+
+### results:
 
 ### Tools:
 * **Exploratory data analysis in Excel or Google Sheets** is required.
