@@ -20,7 +20,10 @@ In the short term, this project is deemed a success if profits increase due to m
 
 ## Data
 
-Kaggle: https://www.kaggle.com/aungpyaeap/supermarket-sales
+Kaggle: 
+Supermarket sales: https://www.kaggle.com/aungpyaeap/supermarket-sales
+Trader Joe's locations: https://www.kaggle.com/evansimpson/trader-joes-locations?select=store_info.csv
+
 
 ## Algorithms & Analysis
 
@@ -35,6 +38,10 @@ In looking at product segments, I looked at quantity and gross income of product
 The peak hour in average gross income is at 2 pm. Since the afternoon is quite busy, an option is to have more people on staff during this time.
 
 The last chart depicts customer ratings per product line. The main conclusion from this chart is that people dont have strong feelings one way or another towards supermarket product categories. Food/ beverage has a slightly higher rating than the others, but it’s a stretch. 
+
+In order to meet the project goal of increasing profits, my recommendations for Trader Joe's is to offer sales or senior discounts on slower days of the week to bring in more foot traffic, increase the the price of best-selling items and place them on easily accessible shelves, group similar items to encourage paired purchases, reducing the number of health/beauty products since they don't bring as much revenue, and increase staffing during the 2pm rush so that items can be restocked quickly and check-out lines don't have long waits.
+
+In the future, I would love to expand on my analysis by using more datasets to get insight into subcategories (like sales of organic vs junk food), customer demographics (ie: families vs college students, income, age), and location-based data to get inisght into products that might be popular in different stores. In order to get a more accurate understanding of a store's performance, I would also want a larger dataset, spanning longer than just 3 months. 
 
 ## Tools
 - Google Sheets
