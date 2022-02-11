@@ -17,34 +17,17 @@ I want to help Trader Joe's better understand their customers so they know what 
 Kaggle: https://www.kaggle.com/aungpyaeap/supermarket-sales
 
 ### Algorithms:
-* Perform a thorough exploratory analysis in Excel and Tableau; 
-clean, explore, aggregate, and visualize the data as appropriate to address the client's problem. 
-Above: Exploratory data analysis and visualization techniques are applied to an exceptional level of depth or breadth. Non-obvious patterns and insights obtainable from the data are extracted and interpreted using methods beyond what was covered in the course. The analysis clearly demonstrates the feasibility and fit of the proposed data science project to the client problem.
 
-
-
-### results:
+I started off by looking at my data in Google Sheets and performed data cleaning and exploratory data analysis to narrow down the key features for subsequent visualization. I used Python packages (matplotlib and seaborn) to create basic charts and exported a cleaned up csv into Tableau for more advanced visualizations to address my client's problems.
+RESUYTSLLLL
 
 ### Tools:
-* **Exploratory data analysis in Excel or Google Sheets** is required.
-* **Visualization in Tableau** is required. Note: As detailed in the Tableau lesson, Linux users will need to sign up 
-for a free trial of Tableau Online. Please reach out to an instructor if you run into any issues with this requirement.
-- Other tools not covered in the course are completely optional:
-  - *Acquisition* tools could include web scraping libraries or use of APIs
-  - *Storage* tools could include SQL or noSQL (e.g. MongoDB) databases
-  - **You may use Python for data acquisition if you wish (not required), but, otherwise please do your work in sheets and Tableau and do not use Python.** Once you have completed significant work using sheets and Tableau, you can meet with an instructor, who can approve using Python for modeling and/or additional visualization.
-
-  
-
-## Deliverables:
-
-**Please submit all project deliverables through the [Student Submissions Form](https://docs.google.com/forms/d/e/1FAIpQLSeM7MPx5r_FaX6ordJGkG1ObLh94GEE8qzlvEFxfvmWsKmXNA/viewform)**. All project deliverables and code should be uploaded to a personal, project-specific GitHub repository. Click [here](https://github.com/thisismetis/Metis_Fundamentals/tree/main/git_and_github) for instructions on how to set up a personal repo. 
-
-
+- Google Sheets
+- Python 
+- Matplotlib
+- Seaborn
+- Tableau
  
- * Define a realistic business problem faced by your client: 
-
-* Develop a fully-scoped proposal for how data science methods can be used to drive impact towards the defined problem
 *
     * Impact hypothesis
     * Solution paths
